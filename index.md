@@ -5,3 +5,7 @@
 version()
 @enduml
 ```
+
+{% plantuml %}
+[First] - [Second]
+{% endplantuml %}
