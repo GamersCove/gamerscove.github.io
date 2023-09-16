@@ -1,3 +1,4 @@
 theme: jekyll-theme-minimal
 title: Gamer's Cove homepage
 description: Keep track of project design and other plans here!
+gems: ['jekyll-plantuml']
