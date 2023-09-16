@@ -1,11 +1,3 @@
 # Gamers Cove
 
-```plantuml
-@startuml
-version()
-@enduml
-```
-
-{% plantuml %}
-[First] - [Second]
-{% endplantuml %}
+> This is the start of something interesting. We will update this soon with all the details.
